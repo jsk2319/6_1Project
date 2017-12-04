@@ -1,3 +1,4 @@
+package MathPack;
 
 public class Calculator {
     public static double getAverage(double one, double two){
